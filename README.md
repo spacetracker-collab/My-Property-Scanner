@@ -56,7 +56,7 @@ e)	Provide a mechanism for the user/customer to correspond with the Vaasthu or F
 
 [Vaasthu Tagiing](https://github.com/spacetracker-collab/VeetuVelai/blob/main/Home%20Warranty%201.0.png)
 
-**Q5. Is there any other way the novelty can be implemented? Here you can explain alternative process or algorithm to achieve the same result, if any?
+**Q5. Is there any other way the novelty can be implemented? Here you can explain alternative process or algorithm to achieve the same result, if any?**
 
 There are no other ways this process can be achieved. A close cousin is the use of augmented reality where the Vaasthu or Feng Shui consultant can perceive the same reality with our database in an augmented real time mode on premise and provide feedback that can be incorporated.
 
