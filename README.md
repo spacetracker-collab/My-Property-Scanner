@@ -17,7 +17,7 @@ I own REITS
 
 
 
-** Patent Pending Technology on My-Property-Scanner now publically released**
+**Patent Pending Technology on My-Property-Scanner released**
 
 **INVENTION DISCLOSURE FORM**
 
