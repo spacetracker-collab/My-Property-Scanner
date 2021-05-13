@@ -21,7 +21,7 @@ I own REITS
 
 **My Work Qualifications**
 
-This is not complaint to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) and these qualifications are only for work and not academic in nature.
+This is not complaint to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) and these qualifications are only for work and not academic in nature (except the Self Service Pattern Language).
 
 * [Feng Shui Diploma](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Diploma%20-%20Ramkumar%20R.jpg)
 * [Feng Shui Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Certificate.jpg)
@@ -29,6 +29,8 @@ This is not complaint to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/
 * [Big Data Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Architecting%20Big%20Data.jpg)
 * [Software as a Service Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Architecting%20SaaS.jpg)
 * [Microservice Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Microservice%20Architecture.jpg)
+* [Self Service Pattern Language](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Self%20Service%20Pattern%20Language%201.0.png) : I retain the right tio use this diagram for the future. The patent below can consist of Power Users, Seamless Multitasking and Decision Helper. This was reviewed by [Linda Rising](https://en.wikipedia.org/wiki/Linda_Rising) among others, who have suggested the names of these patterns, at [GuruPLOP)(https://hillside.net/guruplop/).
+                 
 
 
 **INVENTION DISCLOSURE FORM**
