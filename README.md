@@ -21,7 +21,7 @@ I own REITS
 
 **My Work Qualifications**
 
-This is not compliant to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) or the "Humanities vs STEM (Science, Technology, Engineering, Mathematics) fields"  distinction and these qualifications are only for work and not academic in nature (except the Self Service Pattern Language).
+This is not compliant to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) or the "Humanities vs STEM (Science, Technology, Engineering, Mathematics) fields"  distinction. Thanks to the 279 episodes of [The-Big-Bang-Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) and their non-working elevator . These qualifications are only for work and not academic in nature (except the Self Service Pattern Language).
 
 * [Feng Shui Diploma](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Diploma%20-%20Ramkumar%20R.jpg)
 * [Feng Shui Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Certificate.jpg)
