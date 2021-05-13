@@ -57,6 +57,13 @@ Indeed, the reason I still possess those cuttings from the Times of India is tha
 **Why then did I fail, despite my best efforts, to send a character down a road that is imminently to be struck by a tornado? In reflecting on this, I find myself asking, What would I make of such a scene were I to come across it in a novel written by someone else? I suspect that my response would be one of incredulity; I would be inclined to think that the scene was a contrivance of last resort. Surely, only a writer whose imaginative resources were utterly depleted would fall back on a situation of such extreme improbability? Improbability is the key word here, so we have to ask, What does the word mean?**
 
 </blockquote>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+**Patentable Technology**
+
+A patent was identified by [Patracode](https://www.patracode.com/) in the product.
+
 **INVENTION DISCLOSURE FORM**
 
  
