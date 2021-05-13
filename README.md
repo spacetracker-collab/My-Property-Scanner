@@ -107,4 +107,8 @@ There are no other ways this process can be achieved. A close cousin is the use 
 
 Similarly, it is possible that instead of annotation we could use a completely different representation of the house which is more abstract than concrete like a 2 D map to display. We focus only on 3D representations.
 
+**Aside**
+[Video with Rapid Real Background Changes](https://www.youtube.com/watch?v=TAv0fApr1js) <br>
+[Grammy winning actress on a dynamic real background set](https://www.youtube.com/watch?v=VV1XWJN3nJo)
+
 
