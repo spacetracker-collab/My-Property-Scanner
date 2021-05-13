@@ -21,7 +21,7 @@ I own REITS
 
 **My Work Qualifications**
 
-This is not compliant to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) or the "Humanities vs STEM (Science, Technology, Engineering, Mathematics) fields"  distinction. Thanks to the 279 episodes of [The-Big-Bang-Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) and their non-working elevator . These qualifications are only for work and not academic in nature (except the Self Service Pattern Language).
+This is not compliant to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) or the "Humanities vs STEM (Science, Technology, Engineering, Mathematics) fields"  distinction. Thanks to the 279 episodes of [The-Big-Bang-Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) and their non-working elevator . These qualifications are only for work and not academic in nature (except the Self Service Pattern Language). More in the next section.
 
 * [Feng Shui Diploma](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Diploma%20-%20Ramkumar%20R.jpg)
 * [Feng Shui Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Certificate.jpg)
@@ -31,6 +31,11 @@ This is not compliant to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/
 * [Microservice Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Microservice%20Architecture.jpg)
 * [Self Service Pattern Language](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Self%20Service%20Pattern%20Language%201.0.png) : I retain the right tio use this diagram for the future. The patent below can consist of Power Users, Seamless Multitasking and Decision Helper. This was reviewed by [Linda Rising](https://en.wikipedia.org/wiki/Linda_Rising) among others, who have suggested the names of these patterns, at [GuruPLOP)(https://hillside.net/guruplop/).
                  
+**Excerpt from CP Snows Lament**
+
+Snow's position can be summed up by an often-repeated part of the essay:
+
+A good many times I have been present at gatherings of people who, by the standards of the traditional culture, are thought highly educated and who have with considerable gusto been expressing their incredulity at the illiteracy of scientists. Once or twice I have been provoked and have asked the company how many of them could describe the Second Law of Thermodynamics. The response was cold: it was also negative. Yet I was asking something which is the scientific equivalent of: Have you read a work of Shakespeare's?[5] I now believe that if I had asked an even simpler question – such as, What do you mean by mass, or acceleration, which is the scientific equivalent of saying, Can you read? – not more than one in ten of the highly educated would have felt that I was speaking the same language. So the great edifice of modern physics goes up, and the majority of the cleverest people in the western world have about as much insight into it as their neolithic ancestors would have had.[5]
 
 
 **INVENTION DISCLOSURE FORM**
