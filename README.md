@@ -48,6 +48,9 @@ This is from Amitav Ghoshs book [The Great Derangement: Climate Change and the U
 <blockquote>
  As is often the case with people who are waylaid by unpredictable events, for years afterwards my mind kept returning to my encounter with the tornado. Why had I walked down a road that I almost never took, just before it was struck by a phenomenon that was without historical precedent? To think of it in terms of chance and coincidence seemed only to impoverish the experience: it was like trying to understand a poem by counting the words. 
   
+  
+  
+  
 I found myself reaching instead for the opposite end of the spectrum of meaning—for the extraordinary, the inexplicable, the confounding. Yet these too did not do justice to my memory of the event. Novelists inevitably mine their own experience when they write. Unusual events being necessarily limited in number, it is but natural that these should be excavated over and again in the hope of discovering a yet undiscovered vein. No less than any other writer have I dug into my own past while writing fiction. By rights then, my encounter with the tornado should have been a mother lode, a gift to be mined to the last little nugget. 
 
 It is certainly true that storms, floods and unusual weather events do recur in my books, and this may well be a legacy of the tornado. Yet, oddly enough, no tornado has ever figured in my novels. Nor is this due to any lack of effort on my part.
