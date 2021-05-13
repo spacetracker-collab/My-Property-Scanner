@@ -97,9 +97,9 @@ e)	Provide a mechanism for the user/customer to correspond with the Vaasthu or F
 
 
 
-**[Vaasthu Idea](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Vaasthu%20idea%201.0.png)
+[Vaasthu Idea](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Vaasthu%20idea%201.0.png)
 
-**[Vaasthu Tagging](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Vaasthu%20Tagging%201.0.png)
+[Vaasthu Tagging](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Vaasthu%20Tagging%201.0.png)
 
 **Q5. Is there any other way the novelty can be implemented? Here you can explain alternative process or algorithm to achieve the same result, if any?**
 
