@@ -23,12 +23,12 @@ I own REITS
 
 This is not complaint to [C.P.Snows Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) and these qualifications are only for work and not academic in nature.
 
-[Feng Shui Diploma](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Diploma%20-%20Ramkumar%20R.jpg)
-[Feng Shui Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Certificate.jpg)
-[Vaasthu Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Vaasthu%20Certificate.jpg)
-[Big Data Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Architecting%20Big%20Data.jpg)
-[Software as a Service Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Architecting%20SaaS.jpg)
-[Microservice Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Microservice%20Architecture.jpg)
+* [Feng Shui Diploma](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Diploma%20-%20Ramkumar%20R.jpg)
+* [Feng Shui Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Feng%20Shui%20Certificate.jpg)
+* [Vaasthu Certificate](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Vaasthu%20Certificate.jpg)
+* [Big Data Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Architecting%20Big%20Data.jpg)
+* [Software as a Service Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Architecting%20SaaS.jpg)
+* [Microservice Architecture](https://github.com/spacetracker-collab/My-Property-Scanner/blob/main/Microservice%20Architecture.jpg)
 
 
 **INVENTION DISCLOSURE FORM**
