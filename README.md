@@ -85,11 +85,11 @@ over 2D pictures. Apart from this, the only other way is for the Vaasthu or Feng
 
 The elements of the invention are 
 
-a)	Creation of a Vaasthu and Feng Shui database with the required items that are needed by the consultant. This include features like directions, wind direction, sun direction, water bodies, shapes and sizes, magnetic fields and other important points.
-b)	Manually annotating a Virtual Reality model (often in formats like SKP or OBJ) with relevant information as per the Vaasthu and Feng Shui Database.
-c)	Allowing the   Vaasthu or Feng Shui Consultant to provide inputs on the annotated virtual reality house model as to the fitment. This will use a novel scoreboard technique.
-d)	Automatically annotating and modifying the housing model based on Vaasthu and Feng Shui consultants information and presenting to the user. This is the core inventive step in the model.
-e)	Provide a mechanism for the user/customer to correspond with the Vaasthu or Feng Shui consultant and refine the model in an iterative fashion
+a)	Creation of a Vaasthu and Feng Shui database with the required items that are needed by the consultant. This include features like directions, wind direction, sun direction, water bodies, shapes and sizes, magnetic fields and other important points. <br>
+b)	Manually annotating a Virtual Reality model (often in formats like SKP or OBJ) with relevant information as per the Vaasthu and Feng Shui Database. <br>
+c)	Allowing the   Vaasthu or Feng Shui Consultant to provide inputs on the annotated virtual reality house model as to the fitment. This will use a novel scoreboard technique. <br>
+d)	Automatically annotating and modifying the housing model based on Vaasthu and Feng Shui consultants information and presenting to the user. This is the core inventive step in the model.<br>
+e)	Provide a mechanism for the user/customer to correspond with the Vaasthu or Feng Shui consultant and refine the model in an iterative fashion. <br>
 
 
 **Q4. Please illustrate inventive steps to implement the novelty? Here you may discuss over the process or algorithm and point out the novel elements specifically in the process or algorithm.**
